@@ -1,23 +1,17 @@
-# 🎭 Anbu Logic Labs
+# Anbu Logic Labs
 
-Welcome to **Anbu Logic Labs**. We are a collaborative collective of 4 developers focused on building innovative AI-driven applications. 
+Anbu Logic Labs is a small collaborative engineering group focused on AI tools, automation, and product experiments.
 
-## 🛠️ Our Workflow
-In this lab, we operate under a "Lead & Collaborators" model:
-* **Lead Dev:** Each project is spearheaded by one of our members who defines the vision and architecture.
-* **Support:** The rest of the team acts as elite operatives, providing peer reviews, pushing PRs, and suggesting feature enhancements.
+We use this organization to build practical software, share ownership across projects, and publish selected work as it matures.
 
-## 🚀 Active Missions (Projects)
-* **[Project Name 1]** - *Short description of the app.*
-    * **Lead:** @username
-* **[Project Name 2]** - *Short description of the app.*
-    * **Lead:** @username
-* **[Project Name 3]** - *Short description of the app.*
-    * **Lead:** @username
-* **[Project Name 4]** - *Short description of the app.*
-    * **Lead:** @username
+## Focus Areas
+- AI-assisted tools and workflows
+- Automation and internal systems
+- Developer tooling
+- Small product experiments
 
-## 💻 Tech Stack
-* **Languages:** TBD
-* **AI/ML:** TBD
-* **Infrastructure:** TBD
+## Working Model
+Each project has a primary owner responsible for direction and architecture. Other members contribute through implementation, review, and iteration.
+
+## Public Work
+Selected repositories and experiments will be published here as they become ready for public release.
